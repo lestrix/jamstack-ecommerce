@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby JAMstack ECommerce Professional`,
+    title: `Gattinator - Möbel kaufen`,
     description: `Get up and running with your next E Commerce Website.`,
     author: `@dabit3`,
   },
